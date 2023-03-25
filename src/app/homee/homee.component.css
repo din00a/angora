@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.homee-container{
+    height: 100vh;
+    background-color: #1abc9c;
+}
+
+
+.div-body{
+   justify-content: center;
+   text-align: center;
+   padding-top: 15%;
+  
+}
+.div-body img {
+    width: 15%;
+   
+}
+.div-body h2 {
+    color: aliceblue;
+    padding: 5%;
+    font-weight: 700;
+    font-size:3rem;
+}
+
+.homee-line{
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homee-line1{
+    border-radius: 20%;
+    width: 100px;
+    height: 1px;
+    border: solid white 4px;
+}
+
+.homee-line2{
+    border-radius: 20%;
+    width: 100px;
+    height: 1px;
+    border: solid white 4px;
+}
+
+.homee-line1{
+    background-color: #fff;
+}
+
+
+.homee-star i{
+    color: #fff;
+    font-size: 1.5rem;
+    justify-content: center;
+}
+
+
+
+.div-body p{
+    color: aliceblue;
+    font-size: 1.50rem;
+} 
